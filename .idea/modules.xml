@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CORBA/CORBA.iml" filepath="$PROJECT_DIR$/CORBA/CORBA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSL.iml" filepath="$PROJECT_DIR$/.idea/DSL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leader_Election_Problem/Leader_Election_Problem.iml" filepath="$PROJECT_DIR$/Leader_Election_Problem/Leader_Election_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPI/MPI.iml" filepath="$PROJECT_DIR$/MPI/MPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Token_Ring_Mutual_exclusion/Token_Ring_Mutual_exclusion.iml" filepath="$PROJECT_DIR$/Token_Ring_Mutual_exclusion/Token_Ring_Mutual_exclusion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clock_sync/clock_sync.iml" filepath="$PROJECT_DIR$/clock_sync/clock_sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem-1-11/problem-1-11.iml" filepath="$PROJECT_DIR$/problem-1-11/problem-1-11.iml" />
+    </modules>
+  </component>
+</project>
